@@ -1,0 +1,50 @@
+<h1>la Suite du travaux pratique 2</h1>
+<img src="captures/img.png">
+<img src="captures/img_1.png">
+<img src="captures/img_2.png">
+<img src="captures/img_3.png">
+<img src="captures/img_4.png">
+<img src="captures/img_5.png">
+<img src="captures/img_6.png">
+<img src="captures/img_7.png">
+<img src="captures/img_7.png">
+<img src="captures/img_8.png">
+<img src="captures/img_9.png">
+<img src="captures/img_10.png">
+<img src="captures/img_11.png">
+<img src="captures/img_12.png">
+<img src="captures/img_13.png">
+<img src="captures/img_14.png">
+<img src="captures/img_15.png">
+<img src="captures/img_16.png">
+<img src="captures/img_17.png">
+<img src="captures/img_18.png">
+<img src="captures/img_19.png">
+<img src="captures/img_20.png">
+<img src="captures/img_21.png">
+<img src="captures/img_22.png">
+<img src="captures/img_23.png">
+<img src="captures/img_24.png">
+<img src="captures/img_25.png">
+<img src="captures/img_26.png">
+<img src="captures/img_27.png">
+<img src="captures/img_28.png">
+<img src="captures/img_29.png">
+<img src="captures/img_30.png">
+<img src="captures/img_31.png">
+<img src="captures/img_32.png">
+<img src="captures/img_33.png">
+<img src="captures/img_34.png">
+<img src="captures/img_35.png">
+<img src="captures/img_36.png">
+<img src="captures/img_37.png">
+<img src="captures/img_38.png">
+<img src="captures/img_39.png">
+<img src="captures/img_40.png">
+<img src="captures/img_41.png">
+<img src="captures/img_42.png">
+<img src="captures/img_43.png">
+<img src="captures/img_44.png">
+
+
+
